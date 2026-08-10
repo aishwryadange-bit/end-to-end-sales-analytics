@@ -26,3 +26,7 @@ To analyze sales growth and business performance by combining data cleaning, dat
 - `python` – Data cleaning and analysis notebook
 - `powerbi` – Power BI dashboard
 - `screenshots` – Dashboard preview
+
+## 🖼️ Dashboard Preview
+
+![Sales Analytics Dashboard](screenshots/end_to_end analysis_dashboard.png)
