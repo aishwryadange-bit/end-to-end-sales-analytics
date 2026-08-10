@@ -29,4 +29,4 @@ To analyze sales growth and business performance by combining data cleaning, dat
 
 ## 🖼️ Dashboard Preview
 
-![Sales Analytics Dashboard](screenshots/end_to_end analysis_dashboard.png)
+![Sales Analytics Dashboard](screenshots/end_to_end_analysis_dashboard.png)
